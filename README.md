@@ -1,6 +1,6 @@
 ### Sample Websocket endpoint with tyrus reference implementation
 
-A simple webSocket server coded using tyrus. [Tyrus is the open source JSR 356 - Java API for WebSocket reference implementation](https://tyrus-project.github.io/)
+A simple webSocket server coded using Tyrus. [Tyrus is the open source JSR 356 - Java API for WebSocket reference implementation](https://tyrus-project.github.io/)
 
 In this example we deploy a WebSocket endpoint which checks if a given word is Palindrome or not. A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward as forward.
 
