@@ -4,7 +4,7 @@ A simple webSocket server coded using tyrus. Tyrus is the open source JSR 356 - 
 
 In this example we deploy a WebSocket endpoint which checks if a given word is Palindrom or not.
 
-Example: Neuquen is Palindrom
+Example: Neuquen is palindrom
 
 How to deploy and test the server:
 
