@@ -44,7 +44,7 @@
 							<transformers>
 								<transformer
 									implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>colo.sample.tyrus.server.Server</mainClass>
+									<mainClass>colo.sample.tyrus.server.EchoServer</mainClass>
 								</transformer>
 							</transformers>
 						</configuration>
