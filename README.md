@@ -1,4 +1,4 @@
-### sample-websocket-tyrus
+### Sample Websocket endpoint with tyrus reference implementation
 
 A simple webSocket server coded using tyrus. [Tyrus is the open source JSR 356 - Java API for WebSocket reference implementation](https://tyrus-project.github.io/)
 
