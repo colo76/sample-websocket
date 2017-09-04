@@ -6,7 +6,7 @@ In this example we deploy a WebSocket endpoint which checks if a given word is P
 
 Example: Neuquen is palindrom
 
-How to deploy and test the server:
+How to deploy and test the server([Apache maven requiered](https://maven.apache.org/)):
 
 ```{r, engine='bash', code_block_name} ...
 $ git clone https://github.com/colo76/sample-websocket-tyrus.git
