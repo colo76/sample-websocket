@@ -13,7 +13,7 @@ public class PalindromCheckerTestCase {
 
 		assertTrue(PalindromeChecker.check("Neuquen"));
 
-		assertTrue(PalindromeChecker.check("Perro"));
+		assertFalse(PalindromeChecker.check("Perro"));
 
 		assertFalse(PalindromeChecker.check("Gato"));
 
