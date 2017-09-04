@@ -1,8 +1,6 @@
 ### sample-websocket-tyrus
 
-A simple webSocket server coded using tyrus. Tyrus is the open source JSR 356 - Java API for WebSocket reference implementation
-
-[a relative link](https://tyrus-project.github.io/)
+A simple webSocket server coded using tyrus. [Tyrus is the open source JSR 356 - Java API for WebSocket reference implementation](https://tyrus-project.github.io/)
 
 In this example we deploy a WebSocket endpoint which checks if a given word is Palindrom or not.
 
