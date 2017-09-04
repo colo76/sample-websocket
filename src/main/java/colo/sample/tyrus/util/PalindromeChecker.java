@@ -13,7 +13,7 @@ public class PalindromeChecker {
 	public static boolean check(String pWord2Check) {
 
 		
-		char[] word = pWord2Check.toCharArray();
+		char[] word = pWord2Check.toUpperCase().toCharArray();
 		int i1 = 0;
 		int i2 = word.length - 1;
 		while (i2 > i1) {
