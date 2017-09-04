@@ -1,8 +1,8 @@
 ### sample-websocket-tyrus
 
-A simple Web Sockets server build using tyrus. Tyrus is the open source JSR 356 - Java API for WebSocket reference implementation 
+A simple webSocket server coded using tyrus. Tyrus is the open source JSR 356 - Java API for WebSocket reference implementation 
 
-In this example we deploy a Websocket endpoint which checks if a given word is Palindrom or not.
+In this example we deploy a WebSocket endpoint which checks if a given word is Palindrom or not.
 
 Example: Neuquen is Palindrom
 
@@ -22,6 +22,6 @@ Now open the file echo.html, in Linux you can type:
 $ firefox echo.html 
 ```
 
-Click the connect button, if the conexion is opened you can start testing the endpoint.
+Click the connect button, if the conexion is successfully opened you can start testing the endpoint. Just enter a word in the edit text and click send button to check it.
 
 
